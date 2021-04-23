@@ -6,6 +6,7 @@ https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojj
 
 In the project directory, you can run:
 ### `npm install`
+### `npm install slick-carousel`
 ### `npm start`
 
 Toogle On the plugin and reload the page if it is not working.
